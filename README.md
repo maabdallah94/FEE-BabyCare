@@ -1,2 +1,0 @@
-# FEE-BabyCare
-BabyCare Project 
